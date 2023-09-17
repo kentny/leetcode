@@ -26,27 +26,5 @@ public class GroupAnagrams_49 {
         }
 
         return result;
-
-//        Map<Integer, List<String>> anagrams = new HashMap<>();
-//
-//        for (String str : strs) {
-//            char[] chars = str.toCharArray();
-//
-//            int sum = 0;
-//            for (char c : chars) {
-//                sum += c;
-//            }
-//
-//            List<String> anagram = anagrams.get(sum);
-//            if (anagram == null) {
-//                List<String> newList = new ArrayList<>();
-//                newList.add(str);
-//                anagrams.put(sum, newList);
-//            } else {
-//                anagram.add(str);
-//            }
-//        }
-//
-//        return anagrams.values().stream().toList();
     }
 }
