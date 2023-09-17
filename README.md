@@ -1,8 +1,8 @@
 ## Problem List
-- [ ] Contains Duplicate
+- [x] Contains Duplicate ([Java Solution](./jvm/src/main/java/org/example/ContainDuplicate_217.java))
 - [ ] Valid Anagram
 - [ ] Two Sum
-- [x] Group Anagrams
+- [x] Group Anagrams ([Java Solution](./jvm/src/main/java/org/example/GroupAnagrams_49.java))
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
@@ -13,7 +13,7 @@
 - [ ] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
-- [x] Best Time to Buy And Sell Stock
+- [x] Best Time to Buy And Sell Stock ([TypeScript Solution](./typescript/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock))
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation In String
@@ -39,7 +39,7 @@
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [ ] Linked List Cycle ([Golang Solution](./go/src/141-Linked_List_Cycle))
 - [ ] Find The Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
@@ -138,7 +138,7 @@
 - [ ] Spiral Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Happy Number
-- [x] Plus One
+- [x] Plus One ([TypeScript Solution](./typescript/src/66.%20Plus%20One))
 - [ ] Pow(x, n)
 - [ ] Multiply Strings
 - [ ] Detect Squares
