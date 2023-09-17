@@ -11,7 +11,7 @@
 - [ ] Valid Palindrome
 - [ ] Two Sum II Input Array Is Sorted
 - [ ] 3Sum
-- [ ] Container With Most Water
+- [x] Container With Most Water ([Java Solution](./jvm/src/main/java/org/example/ContainerWithMostWater_11.java))
 - [ ] Trapping Rain Water
 - [x] Best Time to Buy And Sell Stock ([TypeScript Solution](./typescript/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock))
 - [ ] Longest Substring Without Repeating Characters
@@ -39,7 +39,7 @@
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle ([Golang Solution](./go/src/141-Linked_List_Cycle))
+- [x] Linked List Cycle ([Golang Solution](./go/src/141-Linked_List_Cycle))
 - [ ] Find The Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
