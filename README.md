@@ -1,6 +1,6 @@
 ## Problem List
 - [x] Contains Duplicate ([Java Solution](./jvm/src/main/java/org/example/ContainDuplicate_217.java))
-- [ ] Valid Anagram
+- [x] Valid Anagram ([Java Solution](./jvm/src/main/java/org/example/ValidAnagram_242.java))
 - [ ] Two Sum
 - [x] Group Anagrams ([Java Solution](./jvm/src/main/java/org/example/GroupAnagrams_49.java))
 - [ ] Top K Frequent Elements
@@ -78,7 +78,7 @@
 - [ ] Palindrome Partitioning
 - [ ] Letter Combinations of a Phone Number
 - [ ] N Queens
-- [ ] Number of Islands
+- [x] Number of Islands ([Java Solution](./jvm/src/main/java/org/example/NumberOfIslands_200.java))
 - [ ] Clone Graph
 - [ ] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
