@@ -1,151 +1,156 @@
 ## Problem List
-- [x] Contains Duplicate ([Java Solution](./jvm/src/main/java/org/example/ContainDuplicate_217.java))
-- [x] Valid Anagram ([Java Solution](./jvm/src/main/java/org/example/ValidAnagram_242.java))
-- [ ] Two Sum
-- [x] Group Anagrams ([Java Solution](./jvm/src/main/java/org/example/GroupAnagrams_49.java))
-- [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
-- [ ] Valid Sudoku
-- [ ] Encode and Decode Strings   	
-- [ ] Longest Consecutive Sequence
-- [ ] Valid Palindrome
-- [ ] Two Sum II Input Array Is Sorted
-- [ ] 3Sum
-- [x] Container With Most Water ([Java Solution](./jvm/src/main/java/org/example/ContainerWithMostWater_11.java))
-- [ ] Trapping Rain Water
-- [x] Best Time to Buy And Sell Stock ([TypeScript Solution](./typescript/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock))
-- [ ] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
-- [ ] Permutation In String
-- [ ] Minimum Window Substring
-- [ ] Sliding Window Maximum
-- [ ] Valid Parentheses
-- [ ] Min Stack
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Generate Parentheses
-- [ ] Daily Temperatures
-- [ ] Car Fleet
-- [ ] Largest Rectangle In Histogram
-- [ ] Binary Search
-- [ ] Search a 2D Matrix
-- [ ] Koko Eating Bananas
-- [ ] Find Minimum In Rotated Sorted Array
-- [ ] Search In Rotated Sorted Array
-- [ ] Time Based Key Value Store
-- [ ] Median of Two Sorted Arrays
-- [ ] Reverse Linked List
-- [ ] Merge Two Sorted Lists
-- [ ] Reorder List
-- [ ] Remove Nth Node From End of List
-- [ ] Copy List With Random Pointer
-- [ ] Add Two Numbers
-- [x] Linked List Cycle ([Golang Solution](./go/src/141-Linked_List_Cycle))
-- [ ] Find The Duplicate Number
-- [ ] LRU Cache
-- [ ] Merge K Sorted Lists
-- [ ] Reverse Nodes In K Group
-- [ ] Invert Binary Tree
-- [ ] Maximum Depth of Binary Tree
-- [ ] Diameter of Binary Tree
-- [ ] Balanced Binary Tree
-- [ ] Same Tree
-- [ ] Subtree of Another Tree
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Binary Tree Level Order Traversal
-- [ ] Binary Tree Right Side View
-- [ ] Count Good Nodes In Binary Tree
-- [ ] Validate Binary Search Tree
-- [ ] Kth Smallest Element In a Bst
-- [ ] Construct Binary Tree From Preorder And Inorder Traversal
-- [ ] Binary Tree Maximum Path Sum
-- [ ] Serialize And Deserialize Binary Tree
-- [ ] Implement Trie Prefix Tree
-- [ ] Design Add And Search Words Data Structure
-- [ ] Word Search II
-- [ ] Kth Largest Element In a Stream
-- [ ] Last Stone Weight
-- [ ] K Closest Points to Origin
-- [ ] Kth Largest Element In An Array
-- [ ] Task Scheduler
-- [ ] Design Twitter
-- [ ] Find Median From Data Stream
-- [ ] Subsets
-- [ ] Combination Sum
-- [ ] Permutations
-- [ ] Subsets II
-- [ ] Combination Sum II
-- [ ] Word Search
-- [ ] Palindrome Partitioning
-- [ ] Letter Combinations of a Phone Number
-- [ ] N Queens
-- [x] Number of Islands ([Java Solution](./jvm/src/main/java/org/example/NumberOfIslands_200.java))
-- [ ] Clone Graph
-- [ ] Max Area of Island
-- [ ] Pacific Atlantic Water Flow
-- [ ] Surrounded Regions
-- [ ] Rotting Oranges
-- [ ] Walls And Gates   	
-- [ ] Course Schedule
-- [ ] Course Schedule II
-- [ ] Redundant Connection
-- [ ] Number of Connected Components In An Undirected Graph   	
-- [ ] Graph Valid Tree   	
-- [ ] Word Ladder
-- [ ] Reconstruct Itinerary
-- [ ] Min Cost to Connect All Points
-- [ ] Network Delay Time
-- [ ] Swim In Rising Water
-- [ ] Alien Dictionary   	
-- [ ] Cheapest Flights Within K Stops
-- [ ] Climbing Stairs
-- [ ] Min Cost Climbing Stairs
-- [ ] House Robber
-- [ ] House Robber II
-- [ ] Longest Palindromic Substring
-- [ ] Palindromic Substrings
-- [ ] Decode Ways
-- [ ] Coin Change
-- [ ] Maximum Product Subarray
-- [ ] Word Break
-- [ ] Longest Increasing Subsequence
-- [ ] Partition Equal Subset Sum
-- [ ] Unique Paths
-- [ ] Longest Common Subsequence
-- [ ] Best Time to Buy And Sell Stock With Cooldown
-- [ ] Coin Change II
-- [ ] Target Sum
-- [ ] Interleaving String
-- [ ] Longest Increasing Path In a Matrix
-- [ ] Distinct Subsequences
-- [ ] Edit Distance
-- [ ] Burst Balloons
-- [ ] Regular Expression Matching
-- [ ] Maximum Subarray
-- [ ] Jump Game
-- [ ] Jump Game II
-- [ ] Gas Station
-- [ ] Hand of Straights
-- [ ] Merge Triplets to Form Target Triplet
-- [ ] Partition Labels
-- [ ] Valid Parenthesis String
-- [ ] Insert Interval
-- [ ] Merge Intervals
-- [ ] Non Overlapping Intervals
-- [ ] Meeting Rooms   	
-- [ ] Meeting Rooms II   	
-- [ ] Minimum Interval to Include Each Query
-- [ ] Rotate Image
-- [ ] Spiral Matrix
-- [ ] Set Matrix Zeroes
-- [ ] Happy Number
-- [x] Plus One ([TypeScript Solution](./typescript/src/66.%20Plus%20One))
-- [ ] Pow(x, n)
-- [ ] Multiply Strings
-- [ ] Detect Squares
-- [ ] Single Number
-- [ ] Number of 1 Bits
-- [ ] Counting Bits
-- [ ] Reverse Bits
-- [ ] Missing Number
-- [ ] Sum of Two Integers
-- [ ] Reverse Integer	
+
+| Done | Title                                                     | Java                                                                   | TypeScript                                                                  | Python | Go                                      |
+|------|-----------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------|-----------------------------------------|
+| ✅    | Contains Duplicate                                        | [HERE](./jvm/src/main/java/org/example/ContainDuplicate_217.java)      |                                                                             |        |                                         |
+| ✅    | Contains Duplicate                                        | [HERE](./jvm/src/main/java/org/example/ContainDuplicate_217.java)      |                                                                             |        |                                         |
+| ✅    | Valid Anagram                                             | [HERE](./jvm/src/main/java/org/example/ValidAnagram_242.java)          |                                                                             |        |                                         |
+|      | Two Sum                                                   |                                                                        |                                                                             |        |                                         |
+| ✅    | Group Anagrams                                            | [HERE](./jvm/src/main/java/org/example/GroupAnagrams_49.java)          |                                                                             |        |                                         |
+| ✅    | Top K Frequent Elements                                   | [HERE](./jvm/src/main/java/org/example/TopKFrequentElements_347.java)  |                                                                             |        |                                         |
+|      | Valid Sudoku                                              |                                                                        |                                                                             |        |                                         |
+|      | Encode and Decode Strings                                 |                                                                        |                                                                             |        |                                         |   	
+|      | Longest Consecutive Sequence                              |                                                                        |                                                                             |        |                                         |
+|      | Valid Palindrome                                          |                                                                        |                                                                             |        |                                         |
+|      | Two Sum II Input Array Is Sorted                          |                                                                        |                                                                             |        |                                         |
+|      | 3Sum                                                      |                                                                        |                                                                             |        |                                         |
+| ✅    | Container With Most Water                                 | [HERE](./jvm/src/main/java/org/example/ContainerWithMostWater_11.java) |                                                                             |        |                                         |
+|      | Trapping Rain Water                                       |                                                                        |                                                                             |        |                                         |
+| ✅    | Best Time to Buy And Sell Stock                           |                                                                        | [HERE](./typescript/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) |        |                                         |
+|      | Longest Substring Without Repeating Characters            |                                                                        |                                                                             |        |                                         |
+|      | Longest Repeating Character Replacement                   |                                                                        |                                                                             |        |                                         |
+|      | Permutation In String                                     |                                                                        |                                                                             |        |                                         |
+|      | Minimum Window Substring                                  |                                                                        |                                                                             |        |                                         |
+|      | Sliding Window Maximum                                    |                                                                        |                                                                             |        |                                         |
+|      | Valid Parentheses                                         |                                                                        |                                                                             |        |                                         |
+|      | Min Stack                                                 |                                                                        |                                                                             |        |                                         |
+|      | Evaluate Reverse Polish Notation                          |                                                                        |                                                                             |        |                                         |
+|      | Generate Parentheses                                      |                                                                        |                                                                             |        |                                         |
+|      | Daily Temperatures                                        |                                                                        |                                                                             |        |                                         |
+|      | Car Fleet                                                 |                                                                        |                                                                             |        |                                         |
+|      | Largest Rectangle In Histogram                            |                                                                        |                                                                             |        |                                         |
+|      | Binary Search                                             |                                                                        |                                                                             |        |                                         |
+|      | Search a 2D Matrix                                        |                                                                        |                                                                             |        |                                         |
+|      | Koko Eating Bananas                                       |                                                                        |                                                                             |        |                                         |
+|      | Find Minimum In Rotated Sorted Array                      |                                                                        |                                                                             |        |                                         |
+|      | Search In Rotated Sorted Array                            |                                                                        |                                                                             |        |                                         |
+|      | Time Based Key Value Store                                |                                                                        |                                                                             |        |                                         |
+|      | Median of Two Sorted Arrays                               |                                                                        |                                                                             |        |                                         |
+|      | Reverse Linked List                                       |                                                                        |                                                                             |        |                                         |
+|      | Merge Two Sorted Lists                                    |                                                                        |                                                                             |        |                                         |
+|      | Reorder List                                              |                                                                        |                                                                             |        |                                         |
+|      | Remove Nth Node From End of List                          |                                                                        |                                                                             |        |                                         |
+|      | Copy List With Random Pointer                             |                                                                        |                                                                             |        |                                         |
+|      | Add Two Numbers                                           |                                                                        |                                                                             |        |                                         |
+| ✅    | Linked List Cycle                                         |                                                                        |                                                                             |        | [HERE](./go/src/141-Linked_List_Cycle)  |
+|      | Find The Duplicate Number                                 |                                                                        |                                                                             |        |                                         |
+|      | LRU Cache                                                 |                                                                        |                                                                             |        |                                         |
+|      | Merge K Sorted Lists                                      |                                                                        |                                                                             |        |                                         |
+|      | Reverse Nodes In K Group                                  |                                                                        |                                                                             |        |                                         |
+|      | Invert Binary Tree                                        |                                                                        |                                                                             |        |                                         |
+|      | Maximum Depth of Binary Tree                              |                                                                        |                                                                             |        |                                         |
+|      | Diameter of Binary Tree                                   |                                                                        |                                                                             |        |                                         |
+|      | Balanced Binary Tree                                      |                                                                        |                                                                             |        |                                         |
+|      | Same Tree                                                 |                                                                        |                                                                             |        |                                         |
+|      | Subtree of Another Tree                                   |                                                                        |                                                                             |        |                                         |
+|      | Lowest Common Ancestor of a Binary Search Tree            |                                                                        |                                                                             |        |                                         |
+|      | Binary Tree Level Order Traversal                         |                                                                        |                                                                             |        |                                         |
+|      | Binary Tree Right Side View                               |                                                                        |                                                                             |        |                                         |
+|      | Count Good Nodes In Binary Tree                           |                                                                        |                                                                             |        |                                         |
+|      | Validate Binary Search Tree                               |                                                                        |                                                                             |        |                                         |
+|      | Kth Smallest Element In a Bst                             |                                                                        |                                                                             |        |                                         |
+|      | Construct Binary Tree From Preorder And Inorder Traversal |                                                                        |                                                                             |        |                                         |
+|      | Binary Tree Maximum Path Sum                              |                                                                        |                                                                             |        |                                         |
+|      | Serialize And Deserialize Binary Tree                     |                                                                        |                                                                             |        |                                         |
+|      | Implement Trie Prefix Tree                                |                                                                        |                                                                             |        |                                         |
+|      | Design Add And Search Words Data Structure                |                                                                        |                                                                             |        |                                         |
+|      | Word Search II                                            |                                                                        |                                                                             |        |                                         |
+|      | Kth Largest Element In a Stream                           |                                                                        |                                                                             |        |                                         |
+|      | Last Stone Weight                                         |                                                                        |                                                                             |        |                                         |
+|      | K Closest Points to Origin                                |                                                                        |                                                                             |        |                                         |
+|      | Kth Largest Element In An Array                           |                                                                        |                                                                             |        |                                         |
+|      | Task Scheduler                                            |                                                                        |                                                                             |        |                                         |
+|      | Design Twitter                                            |                                                                        |                                                                             |        |                                         |
+|      | Find Median From Data Stream                              |                                                                        |                                                                             |        |                                         |
+|      | Subsets                                                   |                                                                        |                                                                             |        |                                         |
+|      | Combination Sum                                           |                                                                        |                                                                             |        |                                         |
+|      | Permutations                                              |                                                                        |                                                                             |        |                                         |
+|      | Subsets II                                                |                                                                        |                                                                             |        |                                         |
+|      | Combination Sum II                                        |                                                                        |                                                                             |        |                                         |
+|      | Word Search                                               |                                                                        |                                                                             |        |                                         |
+|      | Palindrome Partitioning                                   |                                                                        |                                                                             |        |                                         |
+|      | Letter Combinations of a Phone Number                     |                                                                        |                                                                             |        |                                         |
+|      | N Queens                                                  |                                                                        |                                                                             |        |                                         |
+| ✅    | Number of Islands                                         | [HERE](./jvm/src/main/java/org/example/NumberOfIslands_200.java)       |                                                                             |        |                                         |
+|      | Clone Graph                                               |                                                                        |                                                                             |        |                                         |
+|      | Max Area of Island                                        |                                                                        |                                                                             |        |                                         |
+|      | Pacific Atlantic Water Flow                               |                                                                        |                                                                             |        |                                         |
+|      | Surrounded Regions                                        |                                                                        |                                                                             |        |                                         |
+|      | Rotting Oranges                                           |                                                                        |                                                                             |        |                                         |
+|      | Walls And Gates                                           |                                                                        |                                                                             |        |                                         |   	
+|      | Course Schedule                                           |                                                                        |                                                                             |        |                                         |
+|      | Course Schedule II                                        |                                                                        |                                                                             |        |                                         |
+|      | Redundant Connection                                      |                                                                        |                                                                             |        |                                         |
+|      | Number of Connected Components In An Undirected Graph     |                                                                        |                                                                             |        |                                         |   	
+|      | Graph Valid Tree                                          |                                                                        |                                                                             |        |                                         |   	
+|      | Word Ladder                                               |                                                                        |                                                                             |        |                                         |
+|      | Reconstruct Itinerary                                     |                                                                        |                                                                             |        |                                         |
+|      | Min Cost to Connect All Points                            |                                                                        |                                                                             |        |                                         |
+|      | Network Delay Time                                        |                                                                        |                                                                             |        |                                         |
+|      | Swim In Rising Water                                      |                                                                        |                                                                             |        |                                         |
+|      | Alien Dictionary                                          |                                                                        |                                                                             |        |                                         |   	
+|      | Cheapest Flights Within K Stops                           |                                                                        |                                                                             |        |                                         |
+|      | Climbing Stairs                                           |                                                                        |                                                                             |        |                                         |
+|      | Min Cost Climbing Stairs                                  |                                                                        |                                                                             |        |                                         |
+|      | House Robber                                              |                                                                        |                                                                             |        |                                         |
+|      | House Robber II                                           |                                                                        |                                                                             |        |                                         |
+|      | Longest Palindromic Substring                             |                                                                        |                                                                             |        |                                         |
+|      | Palindromic Substrings                                    |                                                                        |                                                                             |        |                                         |
+|      | Decode Ways                                               |                                                                        |                                                                             |        |                                         |
+|      | Coin Change                                               |                                                                        |                                                                             |        |                                         |
+|      | Maximum Product Subarray                                  |                                                                        |                                                                             |        |                                         |
+|      | Word Break                                                |                                                                        |                                                                             |        |                                         |
+|      | Longest Increasing Subsequence                            |                                                                        |                                                                             |        |                                         |
+|      | Partition Equal Subset Sum                                |                                                                        |                                                                             |        |                                         |
+|      | Unique Paths                                              |                                                                        |                                                                             |        |                                         |
+|      | Longest Common Subsequence                                |                                                                        |                                                                             |        |                                         |
+|      | Best Time to Buy And Sell Stock With Cooldown             |                                                                        |                                                                             |        |                                         |
+|      | Coin Change II                                            |                                                                        |                                                                             |        |                                         |
+|      | Target Sum                                                |                                                                        |                                                                             |        |                                         |
+|      | Interleaving String                                       |                                                                        |                                                                             |        |                                         |
+|      | Longest Increasing Path In a Matrix                       |                                                                        |                                                                             |        |                                         |
+|      | Distinct Subsequences                                     |                                                                        |                                                                             |        |                                         |
+|      | Edit Distance                                             |                                                                        |                                                                             |        |                                         |
+|      | Burst Balloons                                            |                                                                        |                                                                             |        |                                         |
+|      | Regular Expression Matching                               |                                                                        |                                                                             |        |                                         |
+|      | Maximum Subarray                                          |                                                                        |                                                                             |        |                                         |
+|      | Jump Game                                                 |                                                                        |                                                                             |        |                                         |
+|      | Jump Game II                                              |                                                                        |                                                                             |        |                                         |
+|      | Gas Station                                               |                                                                        |                                                                             |        |                                         |
+|      | Hand of Straights                                         |                                                                        |                                                                             |        |                                         |
+|      | Merge Triplets to Form Target Triplet                     |                                                                        |                                                                             |        |                                         |
+|      | Partition Labels                                          |                                                                        |                                                                             |        |                                         |
+|      | Valid Parenthesis String                                  |                                                                        |                                                                             |        |                                         |
+|      | Insert Interval                                           |                                                                        |                                                                             |        |                                         |
+|      | Merge Intervals                                           |                                                                        |                                                                             |        |                                         |
+|      | Non Overlapping Intervals                                 |                                                                        |                                                                             |        |                                         |
+|      | Meeting Rooms                                             |                                                                        |                                                                             |        |                                         |   	
+|      | Meeting Rooms II                                          |                                                                        |                                                                             |        |                                         |   	
+|      | Minimum Interval to Include Each Query                    |                                                                        |                                                                             |        |                                         |
+|      | Rotate Image                                              |                                                                        |                                                                             |        |                                         |
+|      | Spiral Matrix                                             |                                                                        |                                                                             |        |                                         |
+|      | Set Matrix Zeroes                                         |                                                                        |                                                                             |        |                                         |
+|      | Happy Number                                              |                                                                        |                                                                             |        |                                         |
+| ✅    | Plus One                                                  |                                                                        | [HERE](./typescript/src/66.%20Plus%20One)                                   |        |                                         |
+|      | Pow(x, n)                                                 |                                                                        |                                                                             |        |                                         |
+|      | Multiply Strings                                          |                                                                        |                                                                             |        |                                         |
+|      | Detect Squares                                            |                                                                        |                                                                             |        |                                         |
+|      | Single Number                                             |                                                                        |                                                                             |        |                                         |
+|      | Number of 1 Bits                                          |                                                                        |                                                                             |        |                                         |
+|      | Counting Bits                                             |                                                                        |                                                                             |        |                                         |
+|      | Reverse Bits                                              |                                                                        |                                                                             |        |                                         |
+|      | Missing Number                                            |                                                                        |                                                                             |        |                                         |
+|      | Sum of Two Integers                                       |                                                                        |                                                                             |        |                                         |
+|      | Reverse Integer                                           |                                                                        |                                                                             |        |                                         |	
+
+
